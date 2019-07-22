@@ -1,0 +1,36 @@
+li{
+    float: left;
+    list-style: none;
+}
+
+ul{
+    overflow: auto;
+}
+
+main, article {
+    border: 1px solid #000000;
+}
+
+main{
+    width: 50%;
+    float: left;
+} 
+
+.lateral-um{
+    width: 20%;
+    float: left;
+
+}
+
+.lateral-dois{
+    width: 20%;
+    float: left;
+}
+
+footer{
+    clear: both;
+    float: right;
+    background-color: yellow;
+}
+
+
